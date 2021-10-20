@@ -3,7 +3,7 @@
 
 owner = '6285284051385'
 botname = 'ᴼᶜᴴᴼᴮᴼᵀᶻ☽'
-zerokey = 'ZeroYT7'
+zerokey = 'NinoWangy'
 ownername = 'RidhoBotz'
 cr = '*ᴼᶜᴴᴼᴮᴼᵀᶻ☽*'
 
