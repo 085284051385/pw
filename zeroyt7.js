@@ -174,7 +174,7 @@ zeroyt7.sendMessage(from, teks, text,{contextInfo :{text: 'hi',
 isForwarded: false,
 sendEphemeral: false,
 "externalAdReply": {
-                "title": `© Whatsapp-SelfBot\nᴼᶜᴴᴼᴮᴼᵀᶻ☽ (@rellnjoy_)\n• Follow my Instagram!`,
+                "title": `© Whatsapp-SelfBot\nᴼᶜᴴᴼᴮᴼᵀᶻ☽ (@kanti)\n• Follow my Instagram!`,
                 "body": "",
                 "previewType": "PHOTO",
                 "thumbnailUrl": "https://telegra.ph/file/bbb5eca08130920edbcb4.jpg",
